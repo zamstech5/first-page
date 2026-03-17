@@ -19,3 +19,5 @@ Building "My First Page" taught me that clean code is everything. I finally got 
 What’s next? This is just the start. Right now, I’m diving headfirst into JavaScript to bring this page to life and make it way more interactive.
 
 Thanks for stopping by and checking out my first steps! ✌️
+
+and here you can go to the page: https://zamstech5.github.io/first-page/
