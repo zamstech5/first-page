@@ -9,7 +9,7 @@ Staying organized: I actually built a dedicated section for my study notes—I w
 
 🛠️ The Tech 
 
-HTML5: Handling the structural heavy lifting.
+HTML5: Handling the structural 
 
 CSS3: For all the glow effects, grid layouts, and smooth animations.
 
